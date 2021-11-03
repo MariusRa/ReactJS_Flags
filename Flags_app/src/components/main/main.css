@@ -1,0 +1,19 @@
+main {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding-left: 50px;
+}
+article {
+    padding: 20px;
+    border: solid;
+    background-color: lightgray;
+}
+h2 {
+    width: 300px;
+    height: 80px;
+    text-align: center;
+}
+.flag {
+    width: 300px;
+}
